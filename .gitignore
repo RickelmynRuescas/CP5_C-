@@ -1,0 +1,13 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+.idea/
+
+## Banco SQLite local (recriado automaticamente pela migration)
+*.db
+*.db-shm
+*.db-wal
